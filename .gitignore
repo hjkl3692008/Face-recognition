@@ -1,0 +1,6 @@
+python/*.pyc
+p.sh*
+
+/CASIA-WebFace/
+*.zip
+
